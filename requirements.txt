@@ -1,6 +1,8 @@
 pandas
 tiktoken
 langchain
+langchain-community
+pytoqlik
 sentence-transformers
 redisvl>=0.1.0
 bitsandbytes==0.42.0
